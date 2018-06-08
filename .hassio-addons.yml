@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  duckdns:
+    repository: hassio-addons/duckdns
+    target: duckdns
+    image: hassioaddons/duckdns-{arch}
